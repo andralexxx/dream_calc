@@ -1,0 +1,9 @@
+.idea
+sites/*/private
+sites/*/files
+sites/*/settings*.php
+*.sublime-workspace
+*.sublime-project
+.sass-cache
+.DS_Store
+vendor
